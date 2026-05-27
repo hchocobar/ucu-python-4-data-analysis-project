@@ -83,3 +83,15 @@ Deberás preparar tu proyecto para el despliegue.
 Deberás entregar:
 - el **enlace al repositorio de GitHub**.
 - el **enlace a la aplicación desplegada**
+
+## How to run it on your own machine
+1. Install the requirements
+
+```bash
+$ pip install -r requirements.txt
+```
+2. Run the app
+
+```bash
+$ streamlit run app.py
+```
