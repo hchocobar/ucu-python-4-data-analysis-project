@@ -1,0 +1,551 @@
+Fecha;Número ID;Sucursal;Producto;Monto USD;Vendedor;Estado App;Fecha Registro en la App;estado_mora
+23/05/2025;1;Durazno;Premier;;;Registrado;24/05/2025;Cobrado
+14/05/2025;2;Canelones;Préstamo Consumo;672,0;C2;No Registrado;;Cobrado
+10/10/2025;3;Montevideo;Tarjeta de Crédito;;;No Registrado;;En Mora
+15/12/2025;4;Montevideo;Premier;;;Registrado;21/12/2025;Cobrado
+30/12/2025;5;Montevideo;Préstamo Automotor;20053,0;M1;Registrado;31/12/2025;Incobrable
+04/06/2025;6;Canelones;Préstamo Consumo;2957,0;C1;Registrado;11/06/2025;Incobrable
+13/05/2025;7;Colonia;Premier;;;Registrado;19/05/2025;Cobrado
+16/12/2025;8;Paysandú;Cuenta Sueldo;;;Registrado;23/12/2025;Cobrado
+24/01/2025;9;Flores;Premier;;;Registrado;31/01/2025;Cobrado
+30/10/2025;10;Maldonado;Cuenta Sueldo;;;No Registrado;;Cobrado
+21/08/2025;11;San José;Tarjeta de Crédito;;;Registrado;27/08/2025;Cobrado
+19/05/2025;12;Flores;Cuenta Sueldo;;;No Registrado;;Cobrado
+27/01/2025;13;Colonia;Tarjeta de Crédito;;;No Registrado;;Cobrado
+14/11/2025;14;Treinta y Tres;Tarjeta de Crédito;;;No Registrado;;Cobrado
+24/12/2025;15;Canelones;Tarjeta de Crédito;;;Registrado;28/12/2025;Cobrado
+02/06/2025;16;Montevideo;Préstamo Hipotecario;244058,0;M2;Registrado;09/06/2025;Cobrado
+30/12/2025;17;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+24/12/2025;18;Montevideo;Cuenta Sueldo;;;Registrado;29/12/2025;Cobrado
+09/04/2025;19;Durazno;Préstamo Consumo;3996,0;D3;No Registrado;;Cobrado
+24/11/2025;20;Río Negro;Préstamo Hipotecario;215753,0;N1;No Registrado;;En Mora
+30/05/2025;21;Canelones;Cuenta Sueldo;;;No Registrado;;En Mora
+07/11/2025;22;Canelones;Tarjeta de Crédito;;;No Registrado;;Cobrado
+17/03/2025;23;Colonia;Cuenta Sueldo;;;Registrado;21/03/2025;En Mora
+06/06/2025;24;Maldonado;Cuenta Sueldo;;;Registrado;09/06/2025;Cobrado
+10/03/2025;25;Maldonado;Cuenta Sueldo;;;No Registrado;;Cobrado
+13/06/2025;26;Salto;Tarjeta de Crédito;;;Registrado;17/06/2025;Incobrable
+20/02/2025;27;Canelones;Cuenta Sueldo;;;Registrado;25/02/2025;Cobrado
+20/06/2025;28;Canelones;Préstamo Automotor;9142,0;C1;Registrado;26/06/2025;Cobrado
+17/07/2025;29;Canelones;Tarjeta de Crédito;;;Registrado;22/07/2025;Incobrable
+08/05/2025;30;Rivera;Préstamo Automotor;15672,0;R2;Registrado;12/05/2025;Incobrable
+17/11/2025;31;Canelones;Tarjeta de Crédito;;;Registrado;22/11/2025;Cobrado
+15/10/2025;32;Salto;Tarjeta de Crédito;;;Registrado;20/10/2025;En Mora
+05/02/2025;33;Rocha;Tarjeta de Crédito;;;No Registrado;;Cobrado
+29/07/2025;34;Cerro Largo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+16/04/2025;35;Canelones;Tarjeta de Crédito;;;No Registrado;;Cobrado
+24/10/2025;36;Tacuarembó;Tarjeta de Crédito;;;Registrado;29/10/2025;Cobrado
+29/10/2025;37;Maldonado;Cuenta Sueldo;;;Registrado;01/11/2025;Cobrado
+24/10/2025;38;Montevideo;Préstamo Consumo;885,0;M2;No Registrado;;Cobrado
+27/01/2025;39;Florida;Cuenta Sueldo;;;Registrado;29/01/2025;En Mora
+02/01/2025;40;Montevideo;Préstamo Hipotecario;117483,0;M2;Registrado;09/01/2025;En Mora
+14/07/2025;41;Colonia;Préstamo Consumo;1069,0;O2;Registrado;16/07/2025;Cobrado
+03/01/2025;42;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+06/10/2025;43;Durazno;Tarjeta de Crédito;;;No Registrado;;Cobrado
+18/06/2025;44;Salto;Préstamo Consumo;4430,0;S1;No Registrado;;Cobrado
+03/09/2025;45;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+31/07/2025;46;Colonia;Cuenta Sueldo;;;No Registrado;;Cobrado
+03/12/2025;47;Canelones;Préstamo Hipotecario;56581,0;C1;Registrado;05/12/2025;Incobrable
+01/07/2025;48;Montevideo;Préstamo Consumo;3761,0;M2;No Registrado;;Incobrable
+25/07/2025;49;Cerro Largo;Préstamo Hipotecario;158056,0;E2;Registrado;31/07/2025;Cobrado
+11/02/2025;50;Montevideo;Premier;;;Registrado;14/02/2025;Incobrable
+14/02/2025;51;Canelones;Tarjeta de Crédito;;;Registrado;15/02/2025;Cobrado
+10/01/2025;52;San José;Tarjeta de Crédito;;;No Registrado;;Cobrado
+19/02/2025;53;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+07/07/2025;54;Maldonado;Tarjeta de Crédito;;;Registrado;14/07/2025;Cobrado
+11/06/2025;55;Montevideo;Préstamo Consumo;2346,0;M3;No Registrado;;Cobrado
+01/12/2025;56;San José;Premier;;;Registrado;05/12/2025;Cobrado
+10/10/2025;57;Montevideo;Tarjeta de Crédito;;;Registrado;15/10/2025;Incobrable
+05/12/2025;58;Montevideo;Cuenta Sueldo;;;No Registrado;;Incobrable
+09/12/2025;59;Canelones;Préstamo Consumo;1957,0;C3;No Registrado;;Cobrado
+29/07/2025;60;Lavalleja;Premier;;;Registrado;02/08/2025;En Mora
+03/11/2025;61;Río Negro;Préstamo Consumo;586,0;N1;Registrado;10/11/2025;En Mora
+27/01/2025;62;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+07/10/2025;63;Canelones;Préstamo Consumo;843,0;C2;No Registrado;;Cobrado
+23/01/2025;64;Durazno;Tarjeta de Crédito;;;No Registrado;;Cobrado
+07/02/2025;65;Montevideo;Préstamo Automotor;15482,0;M2;No Registrado;;Cobrado
+16/07/2025;66;Canelones;Tarjeta de Crédito;;;No Registrado;;Cobrado
+11/09/2025;67;Artigas;Tarjeta de Crédito;;;Registrado;18/09/2025;Cobrado
+22/07/2025;68;Canelones;Premier;;;Registrado;23/07/2025;Cobrado
+11/02/2025;69;Montevideo;Tarjeta de Crédito;;;Registrado;12/02/2025;Incobrable
+10/11/2025;70;Canelones;Tarjeta de Crédito;;;Registrado;12/11/2025;Cobrado
+17/04/2025;71;Maldonado;Préstamo Consumo;3876,0;A3;No Registrado;;Cobrado
+02/12/2025;72;Montevideo;Cuenta Sueldo;;;No Registrado;;Incobrable
+07/03/2025;73;Rocha;Premier;;;Registrado;09/03/2025;Cobrado
+31/10/2025;74;Maldonado;Tarjeta de Crédito;;;Registrado;06/11/2025;Cobrado
+18/02/2025;75;Rivera;Préstamo Hipotecario;72690,0;R2;Registrado;21/02/2025;Cobrado
+03/12/2025;76;Salto;Premier;;;Registrado;04/12/2025;Cobrado
+22/05/2025;77;Montevideo;Préstamo Consumo;3832,0;M1;No Registrado;;Cobrado
+26/09/2025;78;Colonia;Préstamo Automotor;5786,0;O1;Registrado;29/09/2025;Cobrado
+09/12/2025;79;Canelones;Cuenta Sueldo;;;No Registrado;;Incobrable
+04/06/2025;80;Canelones;Premier;;;Registrado;10/06/2025;Cobrado
+20/05/2025;81;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+10/10/2025;82;Soriano;Tarjeta de Crédito;;;Registrado;11/10/2025;Cobrado
+13/11/2025;83;Maldonado;Préstamo Consumo;2066,0;A1;No Registrado;;Cobrado
+17/07/2025;84;Paysandú;Tarjeta de Crédito;;;No Registrado;;Cobrado
+15/01/2025;85;Florida;Préstamo Consumo;2290,0;L3;Registrado;17/01/2025;Incobrable
+23/07/2025;86;Montevideo;Cuenta Sueldo;;;Registrado;28/07/2025;Cobrado
+22/05/2025;87;Montevideo;Préstamo Consumo;3460,0;M3;No Registrado;;Cobrado
+25/06/2025;88;Salto;Préstamo Hipotecario;149032,0;S1;Registrado;30/06/2025;En Mora
+17/11/2025;89;Salto;Tarjeta de Crédito;;;No Registrado;;En Mora
+27/02/2025;90;Colonia;Préstamo Automotor;10958,0;O3;Registrado;03/03/2025;Incobrable
+15/09/2025;91;Montevideo;Cuenta Sueldo;;;Registrado;19/09/2025;Incobrable
+07/07/2025;92;Salto;Préstamo Automotor;20503,0;S2;Registrado;14/07/2025;Cobrado
+05/08/2025;93;Canelones;Préstamo Automotor;8556,0;C3;No Registrado;;En Mora
+06/08/2025;94;Montevideo;Tarjeta de Crédito;;;Registrado;11/08/2025;Cobrado
+16/05/2025;95;Cerro Largo;Tarjeta de Crédito;;;Registrado;23/05/2025;Cobrado
+03/12/2025;96;Treinta y Tres;Préstamo Consumo;3416,0;Y1;Registrado;10/12/2025;Cobrado
+29/07/2025;97;Montevideo;Préstamo Hipotecario;106803,0;M1;Registrado;02/08/2025;Cobrado
+17/03/2025;98;Maldonado;Tarjeta de Crédito;;;No Registrado;;Cobrado
+15/08/2025;99;Río Negro;Préstamo Automotor;5864,0;N3;Registrado;20/08/2025;Cobrado
+20/06/2025;100;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+10/10/2025;101;Montevideo;Préstamo Consumo;810,0;M3;No Registrado;;Cobrado
+15/07/2025;102;Tacuarembó;Préstamo Hipotecario;42903,0;T1;Registrado;21/07/2025;Cobrado
+04/11/2025;103;Tacuarembó;Tarjeta de Crédito;;;No Registrado;;Cobrado
+18/07/2025;104;Canelones;Tarjeta de Crédito;;;Registrado;21/07/2025;Cobrado
+02/09/2025;105;Canelones;Préstamo Automotor;17723,0;C2;Registrado;03/09/2025;Cobrado
+02/04/2025;106;Montevideo;Tarjeta de Crédito;;;Registrado;07/04/2025;Incobrable
+14/02/2025;107;Montevideo;Premier;;;Registrado;16/02/2025;Cobrado
+03/12/2025;108;Canelones;Préstamo Automotor;14340,0;C1;Registrado;10/12/2025;Cobrado
+17/06/2025;109;Treinta y Tres;Cuenta Sueldo;;;Registrado;23/06/2025;Cobrado
+03/04/2025;110;Rocha;Préstamo Hipotecario;11913,0;H2;Registrado;04/04/2025;Cobrado
+26/09/2025;111;Lavalleja;Tarjeta de Crédito;;;No Registrado;;En Mora
+07/02/2025;112;Maldonado;Préstamo Consumo;1768,0;A2;No Registrado;;Cobrado
+14/01/2025;113;Río Negro;Tarjeta de Crédito;;;Registrado;19/01/2025;Cobrado
+05/11/2025;114;Maldonado;Tarjeta de Crédito;;;No Registrado;;Cobrado
+26/05/2025;115;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+12/08/2025;116;Colonia;Préstamo Consumo;2100,0;O1;Registrado;19/08/2025;Cobrado
+17/10/2025;117;Canelones;Préstamo Hipotecario;76102,0;C1;Registrado;21/10/2025;Incobrable
+19/09/2025;118;Canelones;Préstamo Consumo;2307,0;C2;No Registrado;;Cobrado
+20/01/2025;119;Florida;Cuenta Sueldo;;;Registrado;21/01/2025;Cobrado
+15/10/2025;120;Canelones;Préstamo Automotor;9818,0;C1;No Registrado;;En Mora
+04/04/2025;121;Durazno;Cuenta Sueldo;;;No Registrado;;Cobrado
+17/07/2025;122;Paysandú;Cuenta Sueldo;;;Registrado;22/07/2025;En Mora
+26/08/2025;123;Montevideo;Préstamo Consumo;1588,0;M2;Registrado;02/09/2025;En Mora
+03/07/2025;124;Maldonado;Tarjeta de Crédito;;;No Registrado;;Cobrado
+29/01/2025;125;Montevideo;Préstamo Automotor;25343,0;M1;Registrado;05/02/2025;Incobrable
+28/02/2025;126;Florida;Tarjeta de Crédito;;;Registrado;05/03/2025;En Mora
+09/05/2025;127;Río Negro;Préstamo Consumo;4214,0;N2;No Registrado;;En Mora
+19/05/2025;128;Tacuarembó;Premier;;;Registrado;25/05/2025;Cobrado
+30/05/2025;129;Canelones;Tarjeta de Crédito;;;Registrado;02/06/2025;Cobrado
+21/01/2025;130;Durazno;Cuenta Sueldo;;;No Registrado;;Cobrado
+05/02/2025;131;Paysandú;Tarjeta de Crédito;;;No Registrado;;Cobrado
+04/06/2025;132;Montevideo;Premier;;;Registrado;06/06/2025;Cobrado
+21/03/2025;133;Colonia;Cuenta Sueldo;;;Registrado;23/03/2025;Cobrado
+20/05/2025;134;Salto;Cuenta Sueldo;;;Registrado;23/05/2025;En Mora
+27/06/2025;135;Tacuarembó;Cuenta Sueldo;;;Registrado;04/07/2025;Cobrado
+22/12/2025;136;Canelones;Préstamo Automotor;2550,0;C3;Registrado;29/12/2025;Cobrado
+18/11/2025;137;Tacuarembó;Préstamo Automotor;3510,0;T2;Registrado;22/11/2025;Incobrable
+27/01/2025;138;Canelones;Préstamo Consumo;4178,0;C1;No Registrado;;En Mora
+15/09/2025;139;Montevideo;Préstamo Consumo;1046,0;M1;No Registrado;;Cobrado
+09/06/2025;140;Colonia;Cuenta Sueldo;;;No Registrado;;Cobrado
+02/06/2025;141;Rocha;Tarjeta de Crédito;;;Registrado;08/06/2025;Cobrado
+20/11/2025;142;Rivera;Tarjeta de Crédito;;;No Registrado;;Cobrado
+07/05/2025;143;Cerro Largo;Premier;;;Registrado;14/05/2025;Cobrado
+30/01/2025;144;Lavalleja;Cuenta Sueldo;;;No Registrado;;Cobrado
+23/04/2025;145;Salto;Tarjeta de Crédito;;;Registrado;28/04/2025;Incobrable
+09/07/2025;146;Paysandú;Tarjeta de Crédito;;;No Registrado;;Cobrado
+24/09/2025;147;Montevideo;Cuenta Sueldo;;;No Registrado;;Incobrable
+21/04/2025;148;Colonia;Cuenta Sueldo;;;No Registrado;;Cobrado
+04/09/2025;149;Canelones;Tarjeta de Crédito;;;No Registrado;;Cobrado
+27/05/2025;150;Montevideo;Préstamo Automotor;13020,0;M1;Registrado;02/06/2025;Cobrado
+22/09/2025;151;Lavalleja;Tarjeta de Crédito;;;Registrado;27/09/2025;Cobrado
+07/10/2025;152;Montevideo;Préstamo Consumo;4356,0;M2;No Registrado;;Cobrado
+20/05/2025;153;Canelones;Préstamo Hipotecario;204110,0;C1;Registrado;24/05/2025;En Mora
+31/12/2025;154;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+24/04/2025;155;Colonia;Préstamo Consumo;3485,0;O3;No Registrado;;Cobrado
+04/09/2025;156;Canelones;Préstamo Consumo;1074,0;C2;No Registrado;;Cobrado
+04/08/2025;157;Montevideo;Préstamo Consumo;857,0;M1;No Registrado;;Cobrado
+03/09/2025;158;Florida;Tarjeta de Crédito;;;Registrado;07/09/2025;Cobrado
+20/03/2025;159;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+11/07/2025;160;Canelones;Préstamo Hipotecario;192779,0;C2;Registrado;13/07/2025;En Mora
+07/11/2025;161;Treinta y Tres;Premier;;;Registrado;10/11/2025;Cobrado
+29/04/2025;162;Montevideo;Tarjeta de Crédito;;;No Registrado;;En Mora
+30/12/2025;163;Salto;Préstamo Consumo;4117,0;S3;No Registrado;;Cobrado
+11/12/2025;164;Montevideo;Tarjeta de Crédito;;;Registrado;16/12/2025;Cobrado
+11/08/2025;165;Flores;Tarjeta de Crédito;;;No Registrado;;Cobrado
+16/04/2025;166;Montevideo;Tarjeta de Crédito;;;Registrado;20/04/2025;Cobrado
+06/05/2025;167;Lavalleja;Préstamo Consumo;1585,0;V1;No Registrado;;Cobrado
+25/09/2025;168;Montevideo;Tarjeta de Crédito;;;No Registrado;;Incobrable
+01/01/2025;169;Salto;Préstamo Hipotecario;252570,0;S1;Registrado;04/01/2025;En Mora
+13/01/2025;170;Canelones;Préstamo Consumo;3274,0;C2;Registrado;20/01/2025;En Mora
+18/03/2025;171;Florida;Préstamo Consumo;1328,0;L1;No Registrado;;Cobrado
+23/04/2025;172;Rocha;Préstamo Consumo;1961,0;H1;No Registrado;;Cobrado
+04/11/2025;173;Colonia;Cuenta Sueldo;;;No Registrado;;Cobrado
+15/05/2025;174;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+08/07/2025;175;Río Negro;Préstamo Consumo;2303,0;N3;Registrado;15/07/2025;Cobrado
+23/10/2025;176;Canelones;Premier;;;No Registrado;;Cobrado
+24/11/2025;177;Tacuarembó;Préstamo Consumo;4266,0;T3;No Registrado;;Cobrado
+22/12/2025;178;Rocha;Préstamo Automotor;13683,0;H3;Registrado;26/12/2025;Cobrado
+24/12/2025;179;Florida;Préstamo Consumo;951,0;L1;No Registrado;;Cobrado
+27/01/2025;180;Rivera;Tarjeta de Crédito;;;Registrado;01/02/2025;Cobrado
+08/07/2025;181;Cerro Largo;Cuenta Sueldo;;;No Registrado;;Cobrado
+14/07/2025;182;Montevideo;Préstamo Consumo;2479,0;M3;Registrado;20/07/2025;Cobrado
+17/10/2025;183;Montevideo;Préstamo Consumo;1912,0;M2;No Registrado;;Cobrado
+04/09/2025;184;Tacuarembó;Cuenta Sueldo;;;Registrado;05/09/2025;Cobrado
+10/07/2025;185;Montevideo;Cuenta Sueldo;;;Registrado;17/07/2025;Cobrado
+07/10/2025;186;Canelones;Préstamo Automotor;12423,0;C2;Registrado;08/10/2025;Cobrado
+19/03/2025;187;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+26/06/2025;188;Durazno;Préstamo Automotor;13688,0;D2;Registrado;02/07/2025;Cobrado
+20/10/2025;189;Rivera;Cuenta Sueldo;;;No Registrado;;Cobrado
+25/06/2025;190;Florida;Cuenta Sueldo;;;No Registrado;;Incobrable
+24/02/2025;191;Maldonado;Préstamo Consumo;3171,0;A2;No Registrado;;Cobrado
+07/01/2025;192;Montevideo;Premier;;;Registrado;09/01/2025;En Mora
+08/04/2025;193;Canelones;Tarjeta de Crédito;;;No Registrado;;En Mora
+14/04/2025;194;Canelones;Préstamo Automotor;27836,0;C3;Registrado;19/04/2025;Cobrado
+13/02/2025;195;Cerro Largo;Préstamo Automotor;3826,0;E1;Registrado;17/02/2025;Cobrado
+27/01/2025;196;Rocha;Préstamo Consumo;586,0;H3;No Registrado;;Cobrado
+29/04/2025;197;Rivera;Premier;;;Registrado;02/05/2025;Cobrado
+13/06/2025;198;Rivera;Préstamo Consumo;1669,0;R2;Registrado;20/06/2025;Cobrado
+05/09/2025;199;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+17/10/2025;200;Canelones;Premier;;;Registrado;20/10/2025;Cobrado
+28/03/2025;201;Canelones;Tarjeta de Crédito;;;Registrado;03/04/2025;Cobrado
+13/05/2025;202;Cerro Largo;Cuenta Sueldo;;;No Registrado;;Cobrado
+03/12/2025;203;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+22/04/2025;204;Cerro Largo;Préstamo Consumo;4041,0;E2;Registrado;27/04/2025;Cobrado
+08/05/2025;205;Florida;Tarjeta de Crédito;;;No Registrado;;Cobrado
+30/01/2025;206;San José;Préstamo Consumo;3064,0;J3;No Registrado;;Cobrado
+26/11/2025;207;Montevideo;Tarjeta de Crédito;;;Registrado;01/12/2025;Cobrado
+14/07/2025;208;Montevideo;Premier;;;Registrado;19/07/2025;Cobrado
+06/05/2025;209;Flores;Premier;;;Registrado;09/05/2025;En Mora
+16/09/2025;210;Lavalleja;Cuenta Sueldo;;;Registrado;23/09/2025;En Mora
+03/01/2025;211;Montevideo;Cuenta Sueldo;;;Registrado;05/01/2025;Cobrado
+14/02/2025;212;Treinta y Tres;Préstamo Hipotecario;63384,0;Y2;Registrado;21/02/2025;Cobrado
+20/03/2025;213;Montevideo;Préstamo Consumo;3899,0;M1;No Registrado;;Cobrado
+17/06/2025;214;Rivera;Tarjeta de Crédito;;;Registrado;22/06/2025;Cobrado
+24/09/2025;215;Artigas;Préstamo Automotor;9763,0;I2;Registrado;29/09/2025;Cobrado
+03/11/2025;216;Colonia;Préstamo Automotor;6526,0;O2;Registrado;08/11/2025;Incobrable
+07/07/2025;217;Canelones;Premier;;;Registrado;11/07/2025;Cobrado
+02/07/2025;218;Canelones;Préstamo Hipotecario;241193,0;C1;Registrado;05/07/2025;En Mora
+24/01/2025;219;Maldonado;Premier;;;Registrado;25/01/2025;Cobrado
+27/05/2025;220;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+31/10/2025;221;Cerro Largo;Cuenta Sueldo;;;No Registrado;;Cobrado
+10/03/2025;222;Soriano;Cuenta Sueldo;;;Registrado;12/03/2025;Cobrado
+16/06/2025;223;Montevideo;Préstamo Consumo;4561,0;M1;Registrado;20/06/2025;Cobrado
+01/01/2025;224;Maldonado;Préstamo Automotor;5104,0;A3;Registrado;07/01/2025;Cobrado
+30/01/2025;225;Montevideo;Préstamo Hipotecario;103228,0;M3;Registrado;04/02/2025;Cobrado
+01/05/2025;226;Rivera;Tarjeta de Crédito;;;No Registrado;;Cobrado
+27/03/2025;227;Canelones;Préstamo Automotor;21123,0;C2;Registrado;31/03/2025;Cobrado
+14/03/2025;228;Durazno;Préstamo Consumo;2999,0;D2;No Registrado;;Cobrado
+14/02/2025;229;Paysandú;Préstamo Consumo;4565,0;P3;Registrado;21/02/2025;Cobrado
+19/11/2025;230;Maldonado;Cuenta Sueldo;;;Registrado;26/11/2025;Incobrable
+17/10/2025;231;Paysandú;Préstamo Consumo;3101,0;P2;Registrado;22/10/2025;Cobrado
+18/06/2025;232;Río Negro;Cuenta Sueldo;;;Registrado;23/06/2025;En Mora
+12/05/2025;233;Canelones;Cuenta Sueldo;;;Registrado;16/05/2025;Cobrado
+25/03/2025;234;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+14/05/2025;235;Salto;Préstamo Consumo;743,0;S3;Registrado;16/05/2025;Cobrado
+13/02/2025;236;Montevideo;Préstamo Consumo;3574,0;M2;No Registrado;;Cobrado
+22/09/2025;237;Montevideo;Cuenta Sueldo;;;Registrado;26/09/2025;Cobrado
+06/01/2025;238;Treinta y Tres;Préstamo Hipotecario;118417,0;Y3;Registrado;11/01/2025;Cobrado
+26/03/2025;239;Montevideo;Préstamo Consumo;3854,0;M1;Registrado;28/03/2025;Cobrado
+14/11/2025;240;Colonia;Tarjeta de Crédito;;;Registrado;21/11/2025;Cobrado
+15/10/2025;241;Colonia;Tarjeta de Crédito;;;No Registrado;;En Mora
+28/07/2025;242;Artigas;Tarjeta de Crédito;;;No Registrado;;En Mora
+18/08/2025;243;Colonia;Tarjeta de Crédito;;;Registrado;20/08/2025;Cobrado
+30/06/2025;244;San José;Préstamo Consumo;3014,0;J1;Registrado;07/07/2025;Cobrado
+10/03/2025;245;Rivera;Cuenta Sueldo;;;No Registrado;;En Mora
+19/06/2025;246;Paysandú;Tarjeta de Crédito;;;No Registrado;;Incobrable
+26/03/2025;247;Maldonado;Préstamo Consumo;4243,0;A2;Registrado;28/03/2025;Cobrado
+09/09/2025;248;Colonia;Cuenta Sueldo;;;No Registrado;;En Mora
+17/12/2025;249;Tacuarembó;Préstamo Consumo;4384,0;T2;Registrado;20/12/2025;Cobrado
+19/08/2025;250;Montevideo;Préstamo Automotor;7318,0;M3;Registrado;24/08/2025;En Mora
+08/01/2025;251;Montevideo;Préstamo Consumo;1224,0;M3;Registrado;13/01/2025;Cobrado
+23/06/2025;252;Paysandú;Tarjeta de Crédito;;;No Registrado;;Cobrado
+12/02/2025;253;Montevideo;Cuenta Sueldo;;;Registrado;14/02/2025;Cobrado
+27/11/2025;254;Colonia;Tarjeta de Crédito;;;Registrado;01/12/2025;Cobrado
+23/07/2025;255;Río Negro;Cuenta Sueldo;;;No Registrado;;En Mora
+07/11/2025;256;Canelones;Préstamo Hipotecario;237922,0;C1;Registrado;09/11/2025;Cobrado
+23/01/2025;257;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+08/01/2025;258;Salto;Préstamo Consumo;2481,0;S3;No Registrado;;Cobrado
+19/02/2025;259;Montevideo;Préstamo Consumo;3418,0;M2;No Registrado;;Incobrable
+28/07/2025;260;Canelones;Préstamo Automotor;4018,0;C2;Registrado;03/08/2025;Cobrado
+10/11/2025;261;Durazno;Préstamo Automotor;25526,0;D3;Registrado;11/11/2025;En Mora
+24/03/2025;262;Canelones;Tarjeta de Crédito;;;No Registrado;;En Mora
+11/09/2025;263;Salto;Préstamo Consumo;4443,0;S1;No Registrado;;Cobrado
+18/11/2025;264;Maldonado;Préstamo Consumo;1771,0;A1;No Registrado;;Cobrado
+26/11/2025;265;Canelones;Tarjeta de Crédito;;;No Registrado;;Cobrado
+10/07/2025;266;Maldonado;Cuenta Sueldo;;;No Registrado;;Cobrado
+14/11/2025;267;Maldonado;Cuenta Sueldo;;;Registrado;20/11/2025;Incobrable
+24/10/2025;268;Montevideo;Cuenta Sueldo;;;Registrado;25/10/2025;Cobrado
+04/03/2025;269;Treinta y Tres;Cuenta Sueldo;;;No Registrado;;Cobrado
+08/05/2025;270;Durazno;Cuenta Sueldo;;;Registrado;14/05/2025;Cobrado
+09/12/2025;271;Rocha;Cuenta Sueldo;;;Registrado;12/12/2025;En Mora
+19/05/2025;272;Maldonado;Cuenta Sueldo;;;Registrado;23/05/2025;En Mora
+06/03/2025;273;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+08/01/2025;274;Colonia;Premier;;;Registrado;13/01/2025;Cobrado
+14/01/2025;275;Tacuarembó;Préstamo Hipotecario;269940,0;T3;Registrado;20/01/2025;Cobrado
+24/07/2025;276;Paysandú;Préstamo Consumo;3621,0;P2;No Registrado;;En Mora
+27/10/2025;277;Canelones;Préstamo Consumo;4641,0;C2;No Registrado;;Cobrado
+15/09/2025;278;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+18/03/2025;279;Canelones;Tarjeta de Crédito;;;Registrado;25/03/2025;Cobrado
+25/12/2025;280;Flores;Cuenta Sueldo;;;No Registrado;;Cobrado
+12/03/2025;281;Maldonado;Premier;;;Registrado;19/03/2025;Cobrado
+12/11/2025;282;Canelones;Tarjeta de Crédito;;;No Registrado;;Cobrado
+10/01/2025;283;Paysandú;Préstamo Hipotecario;169979,0;P1;Registrado;12/01/2025;Cobrado
+29/10/2025;284;Soriano;Tarjeta de Crédito;;;Registrado;31/10/2025;Cobrado
+07/05/2025;285;San José;Préstamo Consumo;4096,0;J2;No Registrado;;En Mora
+15/10/2025;286;Tacuarembó;Cuenta Sueldo;;;No Registrado;;Cobrado
+09/01/2025;287;Montevideo;Tarjeta de Crédito;;;Registrado;14/01/2025;En Mora
+20/06/2025;288;Tacuarembó;Cuenta Sueldo;;;No Registrado;;Cobrado
+04/02/2025;289;Montevideo;Tarjeta de Crédito;;;Registrado;05/02/2025;Cobrado
+24/03/2025;290;Maldonado;Cuenta Sueldo;;;Registrado;25/03/2025;En Mora
+29/05/2025;291;Colonia;Préstamo Consumo;3465,0;O2;No Registrado;;Cobrado
+27/02/2025;292;Montevideo;Préstamo Automotor;5614,0;M2;Registrado;28/02/2025;Cobrado
+28/08/2025;293;Maldonado;Cuenta Sueldo;;;Registrado;29/08/2025;Cobrado
+29/12/2025;294;Canelones;Préstamo Consumo;2067,0;C3;Registrado;03/01/2026;Cobrado
+14/02/2025;295;Canelones;Premier;;;Registrado;15/02/2025;Cobrado
+10/07/2025;296;Paysandú;Cuenta Sueldo;;;No Registrado;;En Mora
+25/06/2025;297;Rocha;Préstamo Consumo;3065,0;H2;Registrado;29/06/2025;Cobrado
+12/03/2025;298;Paysandú;Premier;;;Registrado;16/03/2025;En Mora
+11/11/2025;299;Colonia;Préstamo Automotor;28640,0;O3;Registrado;18/11/2025;En Mora
+23/04/2025;300;Montevideo;Cuenta Sueldo;;;Registrado;29/04/2025;Cobrado
+01/07/2025;301;Maldonado;Préstamo Automotor;6623,0;A1;Registrado;04/07/2025;En Mora
+10/04/2025;302;Río Negro;Cuenta Sueldo;;;Registrado;13/04/2025;Cobrado
+02/09/2025;303;Maldonado;Tarjeta de Crédito;;;Registrado;08/09/2025;Cobrado
+25/04/2025;304;Paysandú;Préstamo Consumo;2415,0;P2;No Registrado;;Cobrado
+18/09/2025;305;Canelones;Tarjeta de Crédito;;;Registrado;23/09/2025;Incobrable
+02/06/2025;306;Montevideo;Préstamo Consumo;3753,0;M2;Registrado;08/06/2025;Cobrado
+11/08/2025;307;Río Negro;Préstamo Consumo;4701,0;N2;Registrado;18/08/2025;En Mora
+12/08/2025;308;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+27/03/2025;309;Colonia;Préstamo Consumo;2556,0;O1;Registrado;28/03/2025;En Mora
+21/02/2025;310;Treinta y Tres;Cuenta Sueldo;;;No Registrado;;Cobrado
+10/09/2025;311;Flores;Préstamo Consumo;3092,0;F1;No Registrado;;Cobrado
+21/05/2025;312;Maldonado;Cuenta Sueldo;;;No Registrado;;Cobrado
+15/04/2025;313;Canelones;Préstamo Consumo;3798,0;C1;No Registrado;;Cobrado
+02/05/2025;314;Montevideo;Préstamo Consumo;1962,0;M1;No Registrado;;En Mora
+14/02/2025;315;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+02/06/2025;316;Tacuarembó;Préstamo Automotor;14441,0;T3;Registrado;03/06/2025;En Mora
+26/11/2025;317;Maldonado;Préstamo Automotor;24160,0;A2;Registrado;03/12/2025;En Mora
+15/09/2025;318;Rivera;Préstamo Consumo;3555,0;R3;No Registrado;;En Mora
+06/08/2025;319;Río Negro;Tarjeta de Crédito;;;No Registrado;;Cobrado
+19/12/2025;320;Canelones;Préstamo Consumo;2627,0;C1;Registrado;25/12/2025;Cobrado
+27/10/2025;321;Flores;Préstamo Automotor;18376,0;F1;Registrado;31/10/2025;Cobrado
+19/03/2025;322;Lavalleja;Préstamo Consumo;3674,0;V2;Registrado;20/03/2025;Cobrado
+19/06/2025;323;Colonia;Cuenta Sueldo;;;No Registrado;;En Mora
+03/06/2025;324;Treinta y Tres;Cuenta Sueldo;;;No Registrado;;Cobrado
+02/09/2025;325;Tacuarembó;Cuenta Sueldo;;;No Registrado;;Cobrado
+07/02/2025;326;Paysandú;Tarjeta de Crédito;;;No Registrado;;En Mora
+07/01/2025;327;Maldonado;Cuenta Sueldo;;;Registrado;14/01/2025;Cobrado
+17/12/2025;328;Canelones;Préstamo Hipotecario;101506,0;C2;Registrado;23/12/2025;Cobrado
+25/04/2025;329;Montevideo;Cuenta Sueldo;;;Registrado;30/04/2025;En Mora
+03/10/2025;330;Florida;Cuenta Sueldo;;;Registrado;05/10/2025;Cobrado
+01/04/2025;331;Cerro Largo;Premier;;;Registrado;05/04/2025;Incobrable
+04/03/2025;332;Salto;Préstamo Consumo;1196,0;S1;No Registrado;;Cobrado
+24/10/2025;333;Colonia;Préstamo Consumo;3191,0;O3;No Registrado;;Cobrado
+01/08/2025;334;Lavalleja;Tarjeta de Crédito;;;No Registrado;;En Mora
+27/10/2025;335;Canelones;Premier;;;Registrado;03/11/2025;Incobrable
+22/07/2025;336;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+20/03/2025;337;Montevideo;Premier;;;Registrado;25/03/2025;Cobrado
+01/10/2025;338;Rivera;Cuenta Sueldo;;;Registrado;07/10/2025;Cobrado
+23/01/2025;339;Cerro Largo;Préstamo Consumo;4878,0;E2;No Registrado;;Cobrado
+20/10/2025;340;Montevideo;Préstamo Consumo;3338,0;M3;No Registrado;;Cobrado
+29/05/2025;341;Soriano;Préstamo Consumo;2856,0;SO3;Registrado;02/06/2025;En Mora
+24/04/2025;342;Durazno;Tarjeta de Crédito;;;Registrado;26/04/2025;Cobrado
+28/08/2025;343;Montevideo;Tarjeta de Crédito;;;Registrado;01/09/2025;Cobrado
+11/06/2025;344;Montevideo;Préstamo Consumo;4219,0;M2;Registrado;14/06/2025;En Mora
+15/04/2025;345;Canelones;Cuenta Sueldo;;;Registrado;22/04/2025;Cobrado
+21/05/2025;346;Colonia;Préstamo Consumo;2049,0;O2;No Registrado;;Cobrado
+04/06/2025;347;Río Negro;Tarjeta de Crédito;;;Registrado;07/06/2025;Cobrado
+05/05/2025;348;Maldonado;Cuenta Sueldo;;;Registrado;10/05/2025;Cobrado
+07/04/2025;349;Paysandú;Cuenta Sueldo;;;Registrado;14/04/2025;Cobrado
+20/06/2025;350;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+17/09/2025;351;Durazno;Préstamo Automotor;9496,0;D2;No Registrado;;Cobrado
+25/08/2025;352;Canelones;Tarjeta de Crédito;;;Registrado;30/08/2025;Cobrado
+26/11/2025;353;Rocha;Tarjeta de Crédito;;;No Registrado;;Cobrado
+22/08/2025;354;Flores;Cuenta Sueldo;;;Registrado;23/08/2025;Cobrado
+09/07/2025;355;Canelones;Tarjeta de Crédito;;;Registrado;16/07/2025;Cobrado
+08/01/2025;356;Rivera;Tarjeta de Crédito;;;No Registrado;;En Mora
+11/08/2025;357;Maldonado;Premier;;;Registrado;13/08/2025;Cobrado
+04/04/2025;358;Canelones;Cuenta Sueldo;;;No Registrado;;En Mora
+03/06/2025;359;Colonia;Préstamo Consumo;4704,0;O3;No Registrado;;Incobrable
+25/08/2025;360;Paysandú;Préstamo Consumo;2543,0;P3;No Registrado;;Cobrado
+17/09/2025;361;Artigas;Préstamo Consumo;4286,0;I1;No Registrado;;Cobrado
+09/10/2025;362;Montevideo;Préstamo Consumo;1599,0;M1;No Registrado;;Incobrable
+28/02/2025;363;Río Negro;Préstamo Consumo;1680,0;N3;No Registrado;;Cobrado
+07/08/2025;364;Maldonado;Cuenta Sueldo;;;Registrado;09/08/2025;Incobrable
+01/04/2025;365;Canelones;Cuenta Sueldo;;;No Registrado;;Incobrable
+25/03/2025;366;Artigas;Cuenta Sueldo;;;No Registrado;;Cobrado
+18/03/2025;367;Río Negro;Préstamo Consumo;942,0;N3;No Registrado;;Incobrable
+29/01/2025;368;Paysandú;Premier;;;Registrado;31/01/2025;Cobrado
+09/07/2025;369;Salto;Préstamo Consumo;3629,0;S1;No Registrado;;Cobrado
+27/06/2025;370;Colonia;Cuenta Sueldo;;;No Registrado;;En Mora
+25/11/2025;371;Montevideo;Cuenta Sueldo;;;Registrado;02/12/2025;Cobrado
+22/10/2025;372;Cerro Largo;Préstamo Consumo;4948,0;E2;No Registrado;;Cobrado
+10/09/2025;373;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+01/07/2025;374;Tacuarembó;Premier;;;No Registrado;;Cobrado
+10/07/2025;375;Durazno;Tarjeta de Crédito;;;Registrado;12/07/2025;Cobrado
+27/08/2025;376;Paysandú;Cuenta Sueldo;;;No Registrado;;Cobrado
+23/09/2025;377;Montevideo;Préstamo Consumo;929,0;M2;No Registrado;;Cobrado
+25/11/2025;378;Durazno;Tarjeta de Crédito;;;Registrado;01/12/2025;Incobrable
+17/11/2025;379;Rocha;Préstamo Consumo;2521,0;H1;No Registrado;;Cobrado
+21/11/2025;380;Florida;Préstamo Consumo;2878,0;L2;No Registrado;;Cobrado
+29/05/2025;381;Cerro Largo;Cuenta Sueldo;;;No Registrado;;Cobrado
+23/07/2025;382;Cerro Largo;Préstamo Consumo;3057,0;E2;Registrado;30/07/2025;Cobrado
+03/10/2025;383;Canelones;Premier;;;No Registrado;;Cobrado
+31/07/2025;384;Rivera;Cuenta Sueldo;;;No Registrado;;Cobrado
+16/07/2025;385;Paysandú;Cuenta Sueldo;;;No Registrado;;Incobrable
+04/12/2025;386;Montevideo;Préstamo Consumo;1027,0;M3;Registrado;11/12/2025;Incobrable
+12/11/2025;387;Canelones;Tarjeta de Crédito;;;Registrado;16/11/2025;Cobrado
+17/12/2025;388;Montevideo;Cuenta Sueldo;;;No Registrado;;En Mora
+10/12/2025;389;Montevideo;Tarjeta de Crédito;;;Registrado;13/12/2025;Cobrado
+07/10/2025;390;Salto;Préstamo Automotor;9710,0;S2;No Registrado;;Cobrado
+13/02/2025;391;Soriano;Cuenta Sueldo;;;No Registrado;;Cobrado
+30/06/2025;392;Florida;Cuenta Sueldo;;;No Registrado;;En Mora
+04/02/2025;393;Río Negro;Préstamo Consumo;3137,0;N1;No Registrado;;Cobrado
+10/02/2025;394;Montevideo;Premier;;;Registrado;16/02/2025;En Mora
+17/03/2025;395;Montevideo;Cuenta Sueldo;;;Registrado;18/03/2025;Cobrado
+27/08/2025;396;Paysandú;Tarjeta de Crédito;;;Registrado;29/08/2025;En Mora
+09/12/2025;397;Montevideo;Préstamo Consumo;3962,0;M1;Registrado;16/12/2025;Cobrado
+13/08/2025;398;Salto;Cuenta Sueldo;;;Registrado;19/08/2025;Incobrable
+10/12/2025;399;Canelones;Préstamo Consumo;1804,0;C3;No Registrado;;En Mora
+13/11/2025;400;Montevideo;Cuenta Sueldo;;;Registrado;16/11/2025;Cobrado
+11/11/2025;401;Florida;Cuenta Sueldo;;;Registrado;18/11/2025;Cobrado
+22/08/2025;402;Artigas;Cuenta Sueldo;;;No Registrado;;Cobrado
+19/08/2025;403;Lavalleja;Préstamo Consumo;4494,0;V1;No Registrado;;Cobrado
+06/08/2025;404;Artigas;Cuenta Sueldo;;;No Registrado;;En Mora
+01/12/2025;405;Colonia;Cuenta Sueldo;;;Registrado;04/12/2025;Cobrado
+11/08/2025;406;Maldonado;Préstamo Consumo;2431,0;A2;No Registrado;;En Mora
+07/05/2025;407;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+13/05/2025;408;San José;Tarjeta de Crédito;;;No Registrado;;Cobrado
+12/05/2025;409;Montevideo;Premier;;;Registrado;13/05/2025;Incobrable
+10/09/2025;410;Flores;Cuenta Sueldo;;;Registrado;16/09/2025;Cobrado
+06/06/2025;411;Rivera;Préstamo Consumo;2104,0;R3;No Registrado;;Cobrado
+23/07/2025;412;Maldonado;Cuenta Sueldo;;;Registrado;25/07/2025;En Mora
+11/08/2025;413;Cerro Largo;Préstamo Consumo;2329,0;E2;No Registrado;;Cobrado
+24/10/2025;414;Montevideo;Préstamo Consumo;2884,0;M1;No Registrado;;En Mora
+30/05/2025;415;Rivera;Premier;;;Registrado;04/06/2025;Cobrado
+29/08/2025;416;Paysandú;Cuenta Sueldo;;;No Registrado;;Cobrado
+01/09/2025;417;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+10/07/2025;418;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+03/03/2025;419;Rivera;Préstamo Automotor;25135,0;R2;Registrado;04/03/2025;Cobrado
+08/09/2025;420;Flores;Cuenta Sueldo;;;No Registrado;;En Mora
+03/11/2025;421;Canelones;Tarjeta de Crédito;;;Registrado;09/11/2025;Cobrado
+19/12/2025;422;Tacuarembó;Préstamo Consumo;4213,0;T2;Registrado;20/12/2025;Cobrado
+10/04/2025;423;Montevideo;Préstamo Consumo;4959,0;M3;Registrado;14/04/2025;En Mora
+10/01/2025;424;Montevideo;Premier;;;Registrado;15/01/2025;Cobrado
+24/01/2025;425;Colonia;Tarjeta de Crédito;;;Registrado;28/01/2025;Cobrado
+25/11/2025;426;Canelones;Préstamo Consumo;2387,0;C1;Registrado;29/11/2025;Cobrado
+24/01/2025;427;Montevideo;Cuenta Sueldo;;;Registrado;31/01/2025;Cobrado
+25/07/2025;428;Flores;Préstamo Hipotecario;10180,0;F3;Registrado;27/07/2025;Cobrado
+18/04/2025;429;Canelones;Préstamo Consumo;4794,0;C2;No Registrado;;En Mora
+04/11/2025;430;Colonia;Tarjeta de Crédito;;;No Registrado;;Cobrado
+21/05/2025;431;Maldonado;Tarjeta de Crédito;;;No Registrado;;Cobrado
+02/01/2025;432;Rocha;Préstamo Consumo;658,0;H2;No Registrado;;Cobrado
+12/08/2025;433;Soriano;Cuenta Sueldo;;;Registrado;13/08/2025;Cobrado
+08/01/2025;434;Montevideo;Cuenta Sueldo;;;Registrado;15/01/2025;En Mora
+31/03/2025;435;Rivera;Préstamo Hipotecario;223986,0;R2;Registrado;04/04/2025;Cobrado
+28/11/2025;436;Durazno;Préstamo Consumo;1169,0;D3;No Registrado;;Cobrado
+10/12/2025;437;Paysandú;Cuenta Sueldo;;;No Registrado;;En Mora
+27/06/2025;438;San José;Tarjeta de Crédito;;;No Registrado;;Cobrado
+07/01/2025;439;Colonia;Préstamo Consumo;2321,0;O3;Registrado;13/01/2025;Cobrado
+23/04/2025;440;Cerro Largo;Cuenta Sueldo;;;No Registrado;;Cobrado
+17/12/2025;441;Canelones;Cuenta Sueldo;;;Registrado;23/12/2025;Cobrado
+04/11/2025;442;Montevideo;Préstamo Hipotecario;6315,0;M3;Registrado;05/11/2025;Incobrable
+07/08/2025;443;Rocha;Préstamo Automotor;21199,0;H1;Registrado;09/08/2025;Cobrado
+19/09/2025;444;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+11/06/2025;445;Canelones;Cuenta Sueldo;;;Registrado;12/06/2025;Cobrado
+14/04/2025;446;Paysandú;Premier;;;Registrado;17/04/2025;Cobrado
+14/02/2025;447;Montevideo;Préstamo Automotor;3861,0;M2;Registrado;19/02/2025;Cobrado
+13/08/2025;448;Colonia;Cuenta Sueldo;;;Registrado;16/08/2025;Cobrado
+18/08/2025;449;San José;Préstamo Consumo;794,0;J1;Registrado;24/08/2025;Cobrado
+16/12/2025;450;Montevideo;Tarjeta de Crédito;;;Registrado;22/12/2025;Cobrado
+26/12/2025;451;Rocha;Tarjeta de Crédito;;;Registrado;02/01/2026;Cobrado
+09/12/2025;452;Paysandú;Préstamo Consumo;4258,0;P3;No Registrado;;Cobrado
+04/12/2025;453;Paysandú;Premier;;;Registrado;08/12/2025;En Mora
+20/03/2025;454;Paysandú;Préstamo Consumo;4666,0;P1;No Registrado;;Cobrado
+18/02/2025;455;Montevideo;Cuenta Sueldo;;;No Registrado;;En Mora
+29/12/2025;456;Tacuarembó;Préstamo Automotor;3691,0;T2;Registrado;30/12/2025;Cobrado
+07/05/2025;457;Paysandú;Tarjeta de Crédito;;;No Registrado;;Incobrable
+03/10/2025;458;San José;Préstamo Consumo;2045,0;J1;Registrado;09/10/2025;Incobrable
+25/02/2025;459;Durazno;Tarjeta de Crédito;;;Registrado;02/03/2025;Cobrado
+14/03/2025;460;Soriano;Cuenta Sueldo;;;No Registrado;;Cobrado
+29/04/2025;461;Canelones;Tarjeta de Crédito;;;Registrado;06/05/2025;Cobrado
+10/09/2025;462;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+26/02/2025;463;Río Negro;Préstamo Consumo;717,0;N1;Registrado;01/03/2025;Cobrado
+24/11/2025;464;Paysandú;Cuenta Sueldo;;;Registrado;28/11/2025;Incobrable
+22/05/2025;465;San José;Tarjeta de Crédito;;;No Registrado;;Cobrado
+05/03/2025;466;Tacuarembó;Préstamo Consumo;1799,0;T2;Registrado;06/03/2025;Incobrable
+14/02/2025;467;Canelones;Cuenta Sueldo;;;Registrado;20/02/2025;En Mora
+09/07/2025;468;Rivera;Préstamo Consumo;2635,0;R2;No Registrado;;En Mora
+22/05/2025;469;Canelones;Cuenta Sueldo;;;Registrado;25/05/2025;Incobrable
+09/01/2025;470;Artigas;Préstamo Consumo;1733,0;I1;No Registrado;;Cobrado
+24/07/2025;471;Montevideo;Cuenta Sueldo;;;Registrado;29/07/2025;Cobrado
+03/03/2025;472;Rivera;Cuenta Sueldo;;;Registrado;04/03/2025;Cobrado
+28/11/2025;473;Montevideo;Tarjeta de Crédito;;;No Registrado;;En Mora
+24/01/2025;474;Montevideo;Premier;;;Registrado;31/01/2025;Cobrado
+11/02/2025;475;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+11/06/2025;476;Rocha;Tarjeta de Crédito;;;Registrado;17/06/2025;Cobrado
+09/07/2025;477;Canelones;Préstamo Consumo;579,0;C2;No Registrado;;Cobrado
+01/05/2025;478;Rivera;Tarjeta de Crédito;;;No Registrado;;En Mora
+17/09/2025;479;Canelones;Préstamo Automotor;20462,0;C2;Registrado;24/09/2025;Cobrado
+26/11/2025;480;Canelones;Préstamo Consumo;2683,0;C1;Registrado;27/11/2025;En Mora
+19/12/2025;481;Durazno;Cuenta Sueldo;;;No Registrado;;Cobrado
+05/09/2025;482;Montevideo;Tarjeta de Crédito;;;No Registrado;;Cobrado
+21/02/2025;483;Treinta y Tres;Préstamo Consumo;4283,0;Y1;No Registrado;;Cobrado
+28/08/2025;484;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+25/09/2025;485;Montevideo;Préstamo Hipotecario;123283,0;M3;Registrado;01/10/2025;Cobrado
+11/11/2025;486;Treinta y Tres;Préstamo Consumo;3295,0;Y3;Registrado;17/11/2025;Cobrado
+25/08/2025;487;Florida;Tarjeta de Crédito;;;Registrado;27/08/2025;Incobrable
+22/12/2025;488;Montevideo;Préstamo Consumo;4985,0;M1;No Registrado;;Cobrado
+08/01/2025;489;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+12/08/2025;490;Rocha;Premier;;;Registrado;18/08/2025;En Mora
+17/07/2025;491;Florida;Préstamo Hipotecario;197238,0;L2;Registrado;21/07/2025;Cobrado
+30/10/2025;492;Canelones;Préstamo Automotor;12245,0;C2;Registrado;31/10/2025;Cobrado
+23/09/2025;493;Treinta y Tres;Préstamo Consumo;4717,0;Y2;No Registrado;;Cobrado
+21/07/2025;494;Treinta y Tres;Cuenta Sueldo;;;Registrado;22/07/2025;En Mora
+10/01/2025;495;Paysandú;Préstamo Consumo;4037,0;P2;Registrado;11/01/2025;Cobrado
+05/12/2025;496;Montevideo;Préstamo Automotor;10290,0;M2;Registrado;10/12/2025;En Mora
+16/12/2025;497;Montevideo;Cuenta Sueldo;;;No Registrado;;En Mora
+03/09/2025;498;Canelones;Préstamo Consumo;4390,0;C2;No Registrado;;En Mora
+09/12/2025;499;Maldonado;Préstamo Consumo;931,0;A2;No Registrado;;Cobrado
+22/04/2025;500;Colonia;Premier;;;Registrado;27/04/2025;Cobrado
+05/09/2025;501;Canelones;Cuenta Sueldo;;;No Registrado;;Cobrado
+20/10/2025;502;Montevideo;Préstamo Automotor;21272,0;M1;Registrado;23/10/2025;Incobrable
+17/11/2025;503;Montevideo;Préstamo Automotor;3673,0;M1;Registrado;24/11/2025;Cobrado
+26/05/2025;504;Canelones;Cuenta Sueldo;;;Registrado;29/05/2025;Cobrado
+01/05/2025;505;Lavalleja;Préstamo Consumo;2329,0;V2;Registrado;07/05/2025;Cobrado
+15/09/2025;506;Colonia;Préstamo Consumo;2789,0;O1;Registrado;22/09/2025;Incobrable
+01/12/2025;507;Colonia;Cuenta Sueldo;;;No Registrado;;Cobrado
+28/02/2025;508;Flores;Tarjeta de Crédito;;;Registrado;06/03/2025;Cobrado
+15/10/2025;509;Durazno;Cuenta Sueldo;;;No Registrado;;Cobrado
+13/10/2025;510;Canelones;Cuenta Sueldo;;;Registrado;20/10/2025;Cobrado
+09/07/2025;511;Montevideo;Préstamo Consumo;4007,0;M2;No Registrado;;Cobrado
+10/11/2025;512;Durazno;Tarjeta de Crédito;;;Registrado;12/11/2025;Cobrado
+24/03/2025;513;Montevideo;Tarjeta de Crédito;;;Registrado;31/03/2025;Cobrado
+25/08/2025;514;Canelones;Cuenta Sueldo;;;Registrado;26/08/2025;Incobrable
+26/12/2025;515;Florida;Préstamo Automotor;19796,0;L3;No Registrado;;En Mora
+14/05/2025;516;Canelones;Préstamo Consumo;3189,0;C2;Registrado;21/05/2025;Incobrable
+29/09/2025;517;Montevideo;Préstamo Consumo;2721,0;M1;Registrado;03/10/2025;Incobrable
+05/08/2025;518;Cerro Largo;Préstamo Consumo;2853,0;E2;No Registrado;;Cobrado
+04/08/2025;519;Cerro Largo;Préstamo Consumo;2575,0;E3;No Registrado;;Cobrado
+07/11/2025;520;Canelones;Préstamo Hipotecario;169639,0;C3;Registrado;09/11/2025;En Mora
+22/08/2025;521;Montevideo;Préstamo Hipotecario;17683,0;M2;Registrado;24/08/2025;Incobrable
+01/01/2025;522;Flores;Tarjeta de Crédito;;;Registrado;08/01/2025;Cobrado
+08/10/2025;523;Rivera;Préstamo Automotor;19229,0;R3;Registrado;09/10/2025;En Mora
+28/05/2025;524;Montevideo;Cuenta Sueldo;;;Registrado;04/06/2025;Cobrado
+11/02/2025;525;San José;Préstamo Consumo;3435,0;J3;No Registrado;;Cobrado
+04/04/2025;526;San José;Cuenta Sueldo;;;Registrado;07/04/2025;Cobrado
+23/04/2025;527;Canelones;Cuenta Sueldo;;;Registrado;28/04/2025;En Mora
+11/11/2025;528;Montevideo;Préstamo Consumo;3826,0;M1;No Registrado;;Cobrado
+22/05/2025;529;Durazno;Préstamo Consumo;3164,0;D2;No Registrado;;Cobrado
+03/09/2025;530;Río Negro;Préstamo Consumo;569,0;N2;No Registrado;;Cobrado
+07/02/2025;531;Rocha;Cuenta Sueldo;;;Registrado;13/02/2025;Cobrado
+24/11/2025;532;Rivera;Préstamo Consumo;2859,0;R1;Registrado;30/11/2025;En Mora
+03/11/2025;533;Rocha;Préstamo Automotor;8091,0;H1;Registrado;08/11/2025;En Mora
+24/04/2025;534;Maldonado;Préstamo Hipotecario;292075,0;A3;Registrado;29/04/2025;Cobrado
+26/11/2025;535;Rocha;Préstamo Automotor;18724,0;H2;Registrado;03/12/2025;Cobrado
+29/05/2025;536;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+17/04/2025;537;Montevideo;Cuenta Sueldo;;;No Registrado;;Cobrado
+21/02/2025;538;Canelones;Préstamo Hipotecario;97393,0;C2;No Registrado;;Cobrado
+04/11/2025;539;Maldonado;Cuenta Sueldo;;;No Registrado;;Cobrado
+04/04/2025;540;Tacuarembó;Préstamo Consumo;3014,0;T3;Registrado;06/04/2025;En Mora
+31/03/2025;541;Montevideo;Premier;;;Registrado;01/04/2025;Cobrado
+19/02/2025;542;Río Negro;Préstamo Consumo;1966,0;N2;No Registrado;;Cobrado
+27/08/2025;543;Salto;Cuenta Sueldo;;;No Registrado;;En Mora
+30/04/2025;544;Montevideo;Préstamo Consumo;2759,0;M2;No Registrado;;Cobrado
+15/08/2025;545;Montevideo;Préstamo Consumo;1538,0;M2;Registrado;17/08/2025;Cobrado
+24/10/2025;546;Montevideo;Tarjeta de Crédito;;;Registrado;31/10/2025;Cobrado
+13/11/2025;547;Montevideo;Préstamo Consumo;2440,0;M2;No Registrado;;Cobrado
+12/05/2025;548;Artigas;Cuenta Sueldo;;;Registrado;18/05/2025;Cobrado
+24/10/2025;549;Canelones;Cuenta Sueldo;;;No Registrado;;En Mora
+02/09/2025;550;Rivera;Premier;;;Registrado;09/09/2025;Cobrado
